@@ -1,5 +1,5 @@
-
-name: Deploy site to Pages
+# .github/workflows/github-pages.yml
+name: Deploy site to Github Pages
 
 on:
   # Runs on pushes targeting the default branch
