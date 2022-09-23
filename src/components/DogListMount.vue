@@ -1,7 +1,9 @@
 
 <template>
   <ul>
-    <li v-for="dog in dogs">{{dog}}...</li>
+    <li v-for="dog in dogs">
+      {{dog}}
+    </li>
   </ul>
 </template>
 

@@ -4,17 +4,17 @@
       <div class="col-12">
         <h1>This is an about page</h1>
       </div>
-      <div class="col-4">
+      <div class="col-sm-4">
         <h3>DogListMount</h3>
         <DogListMount />
       </div>
-      <div class="col-4">
+      <div class="col-sm-4">
         <h3>DogListAsync</h3>
         <Suspense>
           <DogListAsync />
         </Suspense>
       </div>
-      <div class="col-4">
+      <div class="col-sm-4">
         <h3>DogListClass</h3>
         <DogListClass />
       </div>
