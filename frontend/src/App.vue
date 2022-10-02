@@ -20,6 +20,9 @@
             <RouterLink to="/dogs" class="nav-link">Dogs 3 Ways</RouterLink>
           </li>
           <li class="nav-item">
+            <RouterLink to="/drawing" class="nav-link">Drawing</RouterLink>
+          </li>
+          <li class="nav-item">
             <a class="nav-link disabled">Disabled</a>
           </li>
           <li class="nav-item dropdown">

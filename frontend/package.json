@@ -16,6 +16,7 @@
     "sass-loader": "^13.0.2",
     "vue": "^3.2.38",
     "vue-class-component": "^8.0.0-rc.1",
+    "vue-drawing-canvas": "^1.0.14",
     "vue-router": "^4.1.5"
   },
   "devDependencies": {
