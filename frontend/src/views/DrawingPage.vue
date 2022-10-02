@@ -43,8 +43,8 @@ const data = reactive({
   lineCap: "round",
   lineJoin: "round",
   backgroundColor: "#FFFFFF",
-  backgroundImage: null,
-  watermark: null,
+  backgroundImage: undefined,
+  watermark: undefined,
   additionalImages: []
 })
   </script>
